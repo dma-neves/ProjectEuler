@@ -1,3 +1,3 @@
 20 sections going right and 20 sections going down
-All permutations of these sections are therefore all the permutations of the 40 sections devided by the 20 simmilar down sections and 20 simmilar right sections
+All permutations of these sections are therefore all the permutations of the 40 sections devided by the 20 similar down sections and 20 similar right sections
 Answer: 40! / (20! * 20!) = 137846528820
